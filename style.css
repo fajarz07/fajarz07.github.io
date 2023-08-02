@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://watermark.lovepik.com/photo/40072/8601.jpg_wh1200.jpg")
+}
+
+
+table {
+  width: 100%;
+  background-color: #D4E6F1;
+}
+
+table, th, td {
+  border: solid 2px;
+  border-color: #85C1E9;
+  text-align: center;
+  }
+  
+  h2 { 
+  text-align: center;
+  font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100&display=swap" rel="stylesheet">
+  }
+  
+  img {
+    width: 180px;
+  }
